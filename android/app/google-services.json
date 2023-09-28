@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220656551479",
+    "project_id": "otpt2-c21dd",
+    "storage_bucket": "otpt2-c21dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220656551479:android:c6fd8ca3af173341e721b2",
+        "android_client_info": {
+          "package_name": "com.example.varificationtrail2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXO_4cqouRdXT0aoUPuW-7T0qscRzgPbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
